@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+#Having the two TextField called Email and Password. It also have email and password validation.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
